@@ -23,19 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+um ebook simples sobre a exploração de modelos de negocios inovadores
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+ChatGPT
+Leonardo.ai
+Word (office365)
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+usei 3 arquivos pdf, dois livros, uma tese, fiz um prompt buscando o resultado esperado
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+não sei upar arquivos ou compartilhar no GitHub ainda.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+ainda estou me familiarizando com o GitHub
 ```
 
 ### Exemplos e Insigths
